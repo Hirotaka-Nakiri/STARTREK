@@ -13,4 +13,16 @@ STARTREK <数字>
 数字が大きいほど早く表示されます。
 
 
+ワープやフォトントーピードの方向指定
+           up
+           1
+       8       2
+
+left 7           3 right
+
+       6       4
+           5
+         down
+
+
 Copyright 2026 Nakiri Kikaku(百鬼企画)
